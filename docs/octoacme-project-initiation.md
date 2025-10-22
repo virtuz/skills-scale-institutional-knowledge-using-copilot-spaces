@@ -27,14 +27,24 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (see [Roles & Personas](octoacme-roles-and-personas.md) for details):
+  - Project Manager:
+  - Product Manager:
+  - Tech Lead / Developers:
+  - Release Manager (if release coordination needed):
+  - QA Lead (for quality strategy):
+  - UX Designer (if UI/UX work involved):
+  - Support Lead (for customer-facing changes):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Core team roles identified and assigned (PM, PdM, Tech Lead)
+- [ ] Supporting roles identified if needed (Release Manager, QA Lead, UX Designer, Support Lead)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Schedule kickoff meeting with all core roles
 
 ## Decision Gate
 Move to planning when:
