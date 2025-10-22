@@ -17,7 +17,7 @@ The following documents detail each aspect of OctoAcme's project management appr
 - [OctoAcme Risk Management & Communication](octoacme-risks-and-communication.md) — Identify and mitigate risks, maintain the risk register, and communicate with stakeholders
 - [OctoAcme Release & Deployment](octoacme-release-and-deployment.md) — Release types, deployment checklist, rollback procedures, and release notes
 - [OctoAcme Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) — Capture learnings, create action items, and iterate on processes
-- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) — Detailed responsibilities for Project Managers, Product Managers, Developers, QA, and Stakeholders
+- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) — Detailed responsibilities for Project Managers, Product Managers, Developers, Release Manager, QA Lead, UX Designer, Support Lead, and Stakeholders, including handoffs and communication paths
 
 ## Getting Started
 
